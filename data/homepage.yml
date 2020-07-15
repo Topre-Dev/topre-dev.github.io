@@ -1,0 +1,67 @@
+# banner
+banner:
+  title : "We build quality sites, quickly."
+
+# about
+about:
+  enable : true
+  content : "Topre offers modern design that is able to scale quickly. We work hand in hand with topre.design to deliver an exceptional quality brand that customers will love!"
+  button:
+    enable : true
+    label : "More about topre"
+    URL : "about"
+
+
+# service
+service:
+  enable : true
+  title : "Services"
+  item:
+    - title : "Web design"
+      icon : "ti-palette"
+      content : "Quality, sites, quick. We develop everything right here in the heart of Melbourne, Australia. We've also helped cusromers get COVID ready to capture more customers."
+      highlighted : false
+
+    - title : "e-commerce"
+      icon : "ti-package"
+      content : "With over 2+ years working on e-commerce platforms like Shopify, Big Cartel and eBay, we're able to integrate, automate and increase sales."
+      highlighted : true
+
+    - title : "Automation"
+      icon : "ti-bolt"
+      content : "Ever wanted to set things up a task to message a customer to re-purchase a product? That's only the tip of the iceberg with automation."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : false
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "person"
+      image : "images/testimonial/client-1.png"
+      designation : ""
+      content : "description"
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "https://trunked.com.au"
+
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+
+
+# blog
+blog:
+  enable : false
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
