@@ -6,8 +6,8 @@ This repo contains our hosted [topre.dev](https://topre.dev) website.
 
 
 ## Branches
-Dev - Hugo contents
-Master - Hugo build
+- Dev - Hugo contents
+- Master - Hugo build
 
 ## Quick Start
 Quick start options: (note that if you want to edit the files to pull the dev branch)
