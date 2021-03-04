@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on topre.dev</title>
-    <link>https://topre.dev/tags/</link>
+    <link>https://dev.topre.com.autags/</link>
     <description>Recent content in Tags on topre.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://topre.dev/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+	<atom:link href="https://dev.topre.com.autags/index.xml" rel="self" type="application/rss+xml" />
+
+
   </channel>
 </rss>
